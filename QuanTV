@@ -7,8 +7,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv3/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png",Vietnam Today
-https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
@@ -25,6 +23,8 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/master.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png",Vietnam Today
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vietnamtoday/master.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
@@ -174,7 +174,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/FLvFSLS.png",Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/LXuRwJY.png",Phú Thọ
-https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
+https://vmttv.dpdns.org/tv360/?id=phu-tho
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/KVia0uU.png",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Truyền Hình"tvg-logo="https://i.imgur.com/ci6kzgL.png",Quảng Ninh 3
